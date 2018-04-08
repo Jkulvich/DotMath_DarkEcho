@@ -1,0 +1,6 @@
+Z:\Projects\ActiveProjects\NEW PROJECTS\DarkEcho\DarkEcho\bin\Debug\DarkEcho.exe.config
+Z:\Projects\ActiveProjects\NEW PROJECTS\DarkEcho\DarkEcho\bin\Debug\DarkEcho.exe
+Z:\Projects\ActiveProjects\NEW PROJECTS\DarkEcho\DarkEcho\bin\Debug\DarkEcho.pdb
+Z:\Projects\ActiveProjects\NEW PROJECTS\DarkEcho\DarkEcho\obj\Debug\DarkEcho.csprojResolveAssemblyReference.cache
+Z:\Projects\ActiveProjects\NEW PROJECTS\DarkEcho\DarkEcho\obj\Debug\DarkEcho.exe
+Z:\Projects\ActiveProjects\NEW PROJECTS\DarkEcho\DarkEcho\obj\Debug\DarkEcho.pdb
